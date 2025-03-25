@@ -2,6 +2,7 @@
 
 Links shared from the meetup prezo.
 
+- [Apple: Understanding How MDM Works](https://it-training.apple.com/tutorials/deployment/dm005/)
 - [WWDC: Meet declarative device management](https://developer.apple.com/videos/play/wwdc2021/10131)
 - [WWDC: Adopt DDM](https://developer.apple.com/videos/play/wwdc2022/10046/)
 - [WWDC: Explore advances in declarative device management](https://developer.apple.com/videos/play/wwdc2023/10041)
